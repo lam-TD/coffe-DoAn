@@ -17,5 +17,15 @@ namespace coffe_DoAN
         {
             InitializeComponent();
         }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem7_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
     }
 }
