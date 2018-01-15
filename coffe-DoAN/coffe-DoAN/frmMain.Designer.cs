@@ -126,6 +126,7 @@
             // 
             this.barButtonItem6.Caption = "Loại thức uống";
             this.barButtonItem6.Id = 6;
+            this.barButtonItem6.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem6.LargeGlyph")));
             this.barButtonItem6.Name = "barButtonItem6";
             // 
             // barButtonItem7
